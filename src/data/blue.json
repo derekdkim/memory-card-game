@@ -1,0 +1,83 @@
+{ "blue": [
+    {
+      "name": "Royal",
+      "hex": "#111E6C",
+      "id": 0
+    },
+    {
+      "name": "Space",
+      "hex": "#1D2951",
+      "id": 1
+    },
+    {
+      "name": "Prussian",
+      "hex": "#003152",
+      "id": 2
+    },
+    {
+      "name": "Navy",
+      "hex": "#000080",
+      "id": 3
+    },
+    {
+      "name": "Yale",
+      "hex": "#0E4D92",
+      "id": 4
+    },
+    {
+      "name": "Egyptian",
+      "hex": "#1034A6",
+      "id": 5
+    },
+    {
+      "name": "Azure",
+      "hex": "#0080FF",
+      "id": 6
+    },
+    {
+      "name": "Sapphire",
+      "hex": "#0F52BA",
+      "id": 7
+    },
+    {
+      "name": "Olympic",
+      "hex": "#008ECC",
+      "id": 8
+    },
+    {
+      "name": "Cornflower",
+      "hex": "#6593F5",
+      "id": 9
+    },
+    {
+      "name": "Maya",
+      "hex": "#73C2FB",
+      "id": 10
+    },
+    {
+      "name": "Carolina",
+      "hex": "#57A0D3",
+      "id": 11
+    },
+    {
+      "name": "Baby Blue",
+      "hex": "#89CFF0",
+      "id": 12
+    },
+    {
+      "name": "Steel",
+      "hex": "#4682B4",
+      "id": 13
+    },
+    {
+      "name": "Electric",
+      "hex": "#7EF9FF",
+      "id": 14
+    },
+    {
+      "name": "Sky",
+      "hex": "#95C8D8",
+      "id": 15
+    }
+  ]
+}

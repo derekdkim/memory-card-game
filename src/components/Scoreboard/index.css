@@ -1,0 +1,23 @@
+#scoreboard-container {
+  border: 1px solid;
+  width: 20%;
+  height: 4em;
+  margin: 5% 0 5% 0;
+  background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.score-box {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.score-box p {
+  margin: 0;
+}
